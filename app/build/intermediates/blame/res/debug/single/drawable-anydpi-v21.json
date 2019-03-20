@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\tooltip_text.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\tooltip_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\message_video.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\message_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hotspot.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hotspot.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\format_text.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\format_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\wifi.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\audiobook.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\audiobook.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\app.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\app.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\camera_burst.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\camera_burst.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\webhook.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\webhook.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\send.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\social_share.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\social_share.xml"
+    }
+]

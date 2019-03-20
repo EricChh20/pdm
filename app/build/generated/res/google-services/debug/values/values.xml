@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">95265741581-bq0pvpo0n47hkgid40s6em08v25prjp8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://pdmfirebaseproject.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">95265741581</string>
+    <string name="google_api_key" translatable="false">AIzaSyCOt_3kVtg3OzVCTplDM_04AGTVt1THwFw</string>
+    <string name="google_app_id" translatable="false">1:95265741581:android:f236e02b93002e39</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOt_3kVtg3OzVCTplDM_04AGTVt1THwFw</string>
+    <string name="google_storage_bucket" translatable="false">pdmfirebaseproject.appspot.com</string>
+    <string name="project_id" translatable="false">pdmfirebaseproject</string>
+</resources>

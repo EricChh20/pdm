@@ -11,12 +11,12 @@ import com.disarm.surakshit.pdm.SelectCategoryActivity;
 
 import java.io.IOException;
 
-import bishakh.psync.Controller;
-import bishakh.psync.Discoverer;
-import bishakh.psync.FileManager;
-import bishakh.psync.FileTransporter;
-import bishakh.psync.Logger;
-import bishakh.psync.WebServer;
+import com.disarm.surakshit.pdm.EricPsync.Controller;
+import com.disarm.surakshit.pdm.EricPsync.Discoverer;
+import com.disarm.surakshit.pdm.EricPsync.FileManager;
+import com.disarm.surakshit.pdm.EricPsync.FileTransporter;
+import com.disarm.surakshit.pdm.EricPsync.Logger;
+import com.disarm.surakshit.pdm.EricPsync.WebServer;
 
 public class SyncService extends Service {
 

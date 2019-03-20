@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio.jpg",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\audio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compass.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\ic_menu_compass.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navto_small.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\navto_small.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_offline.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\ic_menu_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonuspack_bubble.9.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\bonuspack_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_moreinfo.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\btn_moreinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listen_audiobook_player.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\listen_audiobook_player.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\route.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\route.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_out.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_form_rounded.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\bg_form_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textra_sms.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\textra_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\easy_voice_recorder.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\easy_voice_recorder.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_blue.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\marker_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audiopocket.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\audiopocket.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble2.9.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\bubble2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waiting.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\waiting.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notrunning.jpg",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\notrunning.jpg"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo.jpg",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_marker.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\map_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_black.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\marker_black.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\running.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nextgis.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\nextgis.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mapmode.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\ic_menu_mapmode.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mylocation.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\ic_menu_mylocation.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\super_voice_recorder.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\super_voice_recorder.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\center.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moreinfo_arrow.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\moreinfo_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_in.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_maker.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\video_maker.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moreinfo_arrow_pressed.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\moreinfo_arrow_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gradient.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_red.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\marker_red.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble1.9.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\bubble1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\evolve_sms.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\evolve_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\market.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\market.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_circle.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.jpg",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\map.jpg"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_google.png",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\marker_google.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_icon.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\round_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_default.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\marker_default.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_default_focused_base.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\marker_default_focused_base.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.jpg",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\video.jpg"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_rounded.xml",
+        "source": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\src\\main\\res\\drawable\\bg_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6f787c9988ddeeeff9a7437a32bc7142\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction_arrow.png",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\osmdroid-android-5.6.2.aar\\8832fa79766345bf2099f91ea3e0083c\\res\\drawable\\direction_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\3670d6c735ab0957ae88f07faffcd660\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmanc\\Stable App-Vijay\\pdm-Surakshit_New_UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\tmanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cfa1f04673a69c3b660ad92e01e69824\\res\\drawable\\abc_tab_indicator_material.xml"
+    }
+]

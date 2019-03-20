@@ -153,11 +153,15 @@ public class Timer_Toggler implements Runnable{
         Map allDHAvailable = new HashMap<String, Integer>();
 
         // Put all found DH to allDHAvailable Map
-        for (ScanResult scanResult : allScanResults) {
+        for (ScanResult scanResult : allScanResults) {                      // Eric: Creates value for each hotspot depending on range and device battery level
             if(scanResult.SSID.toString().contains("DH-")) {
-                allDHAvailable.put(scanResult.SSID,scanResult.level);
+                allDHAvailable.put(scanResult.SSID,((scanResult.level)+ (DCService.level)));
             }
         }
+        /* Note on why scanResult.level is negative:
+         * It is calculating the signal strength, so -10 dBm == .01 mW
+         * So they represent an exponent on based 10
+         * */
 
         Log.v("AllDH Available:", Arrays.asList(allDHAvailable).toString());
         Logger.addRecordToLog("All DH available:" + Arrays.asList(allDHAvailable).toString());
@@ -169,10 +173,36 @@ public class Timer_Toggler implements Runnable{
             Iterator it = allDHAvailable.entrySet().iterator();
             while (it.hasNext()) {
                 Map.Entry<String, Integer> pair = (Map.Entry) it.next();
-                if (pair.getValue() == maxValueInMap) {
+                if (pair.getValue() == maxValueInMap || pair.getValue() > maxValueInMap) {
                     Log.v("Best Found SSID:", pair.getKey());     // Print the key with max value
                     Logger.addRecordToLog("Best Found SSID"+ ',' + pair.getKey());
                     bestFoundSSID = pair.getKey().toString();
+
+// Original code:
+//        // Store all DH available in allDHAvailable
+//        Map allDHAvailable = new HashMap<String, Integer>();
+//
+//        // Put all found DH to allDHAvailable Map
+//        for (ScanResult scanResult : allScanResults) {
+//            if(scanResult.SSID.toString().contains("DH-")) {
+//                allDHAvailable.put(scanResult.SSID,scanResult.level);
+//            }
+//        }
+//
+//        Log.v("AllDH Available:", Arrays.asList(allDHAvailable).toString());
+//        Logger.addRecordToLog("All DH available:" + Arrays.asList(allDHAvailable).toString());
+//        // Find key with the maximum value from allDHAvailable
+//        String bestFoundSSID="";
+//        int maxValueInMap = 0;
+//        try {
+//            maxValueInMap = (int) Collections.max(allDHAvailable.values());  // This will return max value in the Hashmap
+//            Iterator it = allDHAvailable.entrySet().iterator();
+//            while (it.hasNext()) {
+//                Map.Entry<String, Integer> pair = (Map.Entry) it.next();
+//                if (pair.getValue() == maxValueInMap) {
+//                    Log.v("Best Found SSID:", pair.getKey());     // Print the key with max value
+//                    Logger.addRecordToLog("Best Found SSID"+ ',' + pair.getKey());
+//                    bestFoundSSID = pair.getKey().toString();
                 }
             }
         }
